@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #333333;
+    background-image: url("https://ctt.hust.edu.vn/images/header.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 180px; */
+    font-family: 'Optimistic Display Viet Medium', Helvetica, Arial, sans-serif!important;
+}
+.img_hust{
+    padding-left: 130px;
+    /* height: 80px; */
+    width: auto;
+    display: flex;
+    justify-content: center;
+
+}
+.center_subpost{
+    margin-top: 20px;
+    padding-left: 130px;
+}
+.body_community{
+    font-family: 'Optimistic Display Viet Medium', Helvetica, Arial, sans-serif!important;
+    display: flex;
+    justify-content: center;
+    height: 500px; 
+    overflow: auto; 
+}
+.content{
+    width: 80%;
+    height: auto; 
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+/* .parent {
+    height: 60px; 
+    overflow: auto; 
+  }
+  
+  .child {
+    
+  } */
